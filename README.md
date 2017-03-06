@@ -1,2 +1,2 @@
 # The Diggers
-## A little Earth digging
+## A little Earth digging.
